@@ -1,0 +1,2 @@
+2023-09-25T12:17:14 - http://localhost:8000 com erro. Error code: 429
+2023-09-25T12:17:16 - https://www.google.com funcional.
